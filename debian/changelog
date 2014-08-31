@@ -1,3 +1,9 @@
+tatu (0.2) tatu; urgency=medium
+
+  * Print version number. 
+
+ -- Santiago Aguiar <santiago.aguiar@gmail.com>  Sun, 31 Aug 2014 19:49:39 -0300
+
 tatu (0.1) tatu; urgency=low
 
   * Initial release.
