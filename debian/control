@@ -1,12 +1,12 @@
-Source: tatu
+Source: tatu-hello
 Maintainer: Santiago Aguiar <santiago.aguiar@gmail.com>
 Section: misc
 Priority: optional
-Standards-Version: 3.9.2
+Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 9)
 
-Package: tatu
+Package: tatu-hello
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: rastro de tatu
- tatu indica que funcionó la instalación desde el repositorio Tatu.
+ tatu-hello indica que funcionó la instalación desde el repositorio Tatu.

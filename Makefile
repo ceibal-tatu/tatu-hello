@@ -1,13 +1,13 @@
 VERSION=0.2
 
-all: tatu
+all: tatu-hello
 
-tatu.c: tatu.c.in
-	sed -e 's/{VERSION}/$(VERSION)/' tatu.c.in > tatu.c
+tatu-hello.c: tatu-hello.c.in
+	sed -e 's/{VERSION}/$(VERSION)/' tatu-hello.c.in > tatu-hello.c
 
 clean:
-	rm -f tatu tatu.c
+	rm -f tatu-hello tatu-hello.c
 
 install: all
 	mkdir -p $(DESTDIR)/usr/bin
-	install tatu $(DESTDIR)/usr/bin
+	install tatu-hello $(DESTDIR)/usr/bin
