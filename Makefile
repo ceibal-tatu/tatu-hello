@@ -1,4 +1,4 @@
-VERSION=0.2
+VERSION=`dpkg-parsechangelog --show-field Version`
 
 all: tatu-hello
 

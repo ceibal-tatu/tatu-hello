@@ -1,3 +1,9 @@
+tatu-hello (0.3) UNRELEASED; urgency=medium
+
+  * Updated version. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 07 Sep 2014 20:45:01 -0300
+
 tatu-hello (0.2) tatu; urgency=medium
 
   * Updated maintainer. 
