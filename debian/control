@@ -1,6 +1,6 @@
 Source: tatu-hello
 Maintainer: Plan Ceibal <ceibal@plan.ceibal.edu.uy>
-Section: misc
+Section: Ceibal
 Priority: optional
 Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 9)
