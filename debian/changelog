@@ -1,3 +1,9 @@
+tatu-hello (0.14) tatu; urgency=medium
+
+  * Testing building and publish. Test-1 
+
+ -- Gustavo Duarte <gustavo@gus-bold-pc>  Fri, 10 Jul 2015 15:48:23 -0300
+
 tatu-hello (0.13) tatu; urgency=medium
 
   * Testing deployment. 
