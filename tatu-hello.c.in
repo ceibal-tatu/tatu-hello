@@ -2,5 +2,5 @@
 
 int main() {
 	printf("Tatu %s, listo!\n", "{VERSION}");
-	printf("Building and Publish testing \n");
+	printf("Building and Publish testing --- TEST 2 \n");
 }
