@@ -1,3 +1,33 @@
+tatu-hello (0.18) tatu; urgency=medium
+
+  * Test - 5 
+
+ -- Gustavo Duarte <gus.duarte@gmail.com>  Fri, 10 Jul 2015 17:29:22 -0300
+
+tatu-hello (0.17) tatu; urgency=medium
+
+  * Test- 4 
+
+ -- Gustavo Duarte <gus.duarte@gmail.com>  Fri, 10 Jul 2015 17:06:11 -0300
+
+tatu-hello (0.16) tatu; urgency=medium
+
+  * Test -3 
+
+ -- Gustavo Duarte <gus.duarte@gmail.com>  Fri, 10 Jul 2015 16:43:55 -0300
+
+tatu-hello (0.15) tatu; urgency=medium
+
+  * Tessting building and publishing. Test-2. 
+
+ -- Gustavo Duarte <gustavo@gus-bold-pc>  Fri, 10 Jul 2015 16:22:40 -0300
+
+tatu-hello (0.14) tatu; urgency=medium
+
+  * Testing building and publish. Test-1 
+
+ -- Gustavo Duarte <gustavo@gus-bold-pc>  Fri, 10 Jul 2015 15:55:39 -0300
+
 tatu-hello (0.13) tatu; urgency=medium
 
   * Testing deployment. 
