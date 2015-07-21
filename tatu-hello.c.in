@@ -2,5 +2,5 @@
 
 int main() {
 	printf("Tatu %s, listo!\n", "{VERSION}");
-	printf("Probando publicacion from gustavo's devel ubuntu\n");
+	printf("Probando publicacion from gustavo's devel ubuntu -2\n");
 }
